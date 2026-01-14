@@ -8,3 +8,8 @@ age = (22)
 thankyou chat gpt
 i'm very happy right now
 hy hello 
+in = true
+not in = false
+vegetable = ("karela" , "bindi", "aalu"
+)
+print("baigan" in vegetable)
