@@ -13,3 +13,7 @@ not in = false
 vegetable = ("karela" , "bindi", "aalu"
 )
 print("baigan" in vegetable)
+x = 10 
+y = 15
+ptint (x==y)
+print (x!=y)
