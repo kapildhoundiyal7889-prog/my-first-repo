@@ -5,3 +5,4 @@ c = 20
 print(a+b+c)
 name = ("kapil")
 age = (22)
+thankyou chat gpt
